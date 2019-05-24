@@ -1,1 +1,11 @@
+com/rea/robot/CommandsEvalService$1.class
+com/rea/robot/impl/SquareTableTop.class
+com/rea/robot/util/Commands.class
+com/rea/robot/exception/RobotException.class
+com/rea/robot/ToyRobot.class
 com/rea/robot/App.class
+com/rea/robot/util/Status.class
+com/rea/robot/ToyRobotService.class
+com/rea/robot/util/Movement.class
+com/rea/robot/CommandsEvalService.class
+com/rea/robot/util/Status$1.class

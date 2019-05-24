@@ -100,8 +100,9 @@ Expected output
 	MOVE
 	REPORT
 
-	
-	Output: 0,0,WEST; 3,3,NORTH
+Expected output
+
+	0,0,WEST; 3,3,NORTH
 
 ### Compile, Test, Run and Packaging
 
@@ -109,6 +110,6 @@ Expected output
 
 - Install/Packaging/Test: 'mvn clean install' compiled jar in *target/* folder
 
-- Run: `mvn exec:java`
+- Run: 'mvn exec:java'
 
 - Test from Jar: 'java -jar rea-robot-5.0.jar'

@@ -1,1 +1,6 @@
+com/rea/robot/MovementTest.class
 com/rea/robot/AppTest.class
+com/rea/robot/ToyRobotServiceTest.class
+com/rea/robot/StatusTest.class
+com/rea/robot/SquareTableTopTest.class
+com/rea/robot/CommandsEvalServiceTest.class
