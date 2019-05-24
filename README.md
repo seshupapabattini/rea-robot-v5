@@ -91,9 +91,6 @@ Expected output
 	Sample Values of the file as below
 	
 	PLACE 0,0,NORTH
-  MOVE
-  REPORT
-  PLACE 0,0,NORTH
 	LEFT
 	REPORT
 	PLACE 1,2,EAST
@@ -102,8 +99,9 @@ Expected output
 	LEFT
 	MOVE
 	REPORT
+
 	
-	Output: 0,1,NORTH; 0,0,WEST; 3,3,NORTH
+	Output: 0,0,WEST; 3,3,NORTH
 
 ### Compile, Test, Run and Packaging
 
